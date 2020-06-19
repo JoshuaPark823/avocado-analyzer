@@ -1,4 +1,5 @@
 # Avocado Analyzer 🥑
+## Data Science Visualization & Exploratory Analysis
 
 ### Description 🥑
 - Recently I found an interesting dataset whilst looking around on Kaggle. The dataset contains information such as:</br>

@@ -1,2 +1,24 @@
-# avocado-analyzer
-Data Science project using the avocado dataset found on Kaggle!
+# Avocado Analyzer 🥑
+
+### Description 🥑
+- Recently I found an interesting dataset whilst looking around on Kaggle. The dataset contains information such as:</br>
+  - Date - The date of the observation
+  - AveragePrice - the average price of a single avocado
+  - type - conventional or organic
+  - year - the year
+  - Region - the city or region of the observation
+  - Total Volume - Total number of avocados sold
+
+- So ofcourse, appealing to my sporadic, millenial interests, I've decided to do some **exploratory data analysis** with the hopes of finding any interesting trends.
+
+### Languages & Technologies/Libraries/APIs 🥑
+- Python 3.8.3
+- NumPy and Pandas API
+- MatPlotLib API for Data Visualization
+- Dash API and Plot.ly (Dashboard)
+- Jupyter Notebook
+- Django Web Framework (Tentative, May decide to convert the project into a responsive web application)
+
+### Major Hurdles & Solutions (Always gotta find the solution!) 🥑
+- Issue: Currently the first major hurdle is that I do **not** have access to any text editors or downloadable applications at all. I only have access to a web browser. 
+- Solution: Use the free Jupyter Notebook server on their public website hosted with mybinder and keep track of the project through GitHub using the web UI. Very bad practice and poor workflow, but currently it's all I have access to.

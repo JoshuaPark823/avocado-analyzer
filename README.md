@@ -14,7 +14,7 @@
 
 ### Project Goal (1-2 Month Projection) 🥑
 - Build a classification model that accurately classifies the region of an avocado solely based on parameters. 
-- Build a **Predictive Deep Learning** model that accurately predicts the price of avocados in N years, which region will have the cheapest avocado prices, etc.
+- Build a **Predictive Deep Learning** model that accurately predicts the price of avocados in the next N days, which region will have the cheapest avocado prices, which day will have the lowest price next month, etc
 
 ### Languages & Technologies/Libraries/APIs 🥑
 - Python 3.8.3
